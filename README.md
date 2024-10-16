@@ -1,2 +1,3 @@
-# HelloGit
-c'est un atelier !
+# Le projet HelloGit
+
+## Developpe par c#
